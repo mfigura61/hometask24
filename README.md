@@ -19,7 +19,7 @@ testClient2 <-> testServer2
 
 Топология сети:
 
-![alt text](./vlan-bonding.png)
+![alt text](./net_map.png)
 
 Стартуем виртуалки `vagrant up`.
 
